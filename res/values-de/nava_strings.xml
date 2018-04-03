@@ -12,4 +12,7 @@
     <!-- Platform version -->
     <string name="platform_version">Plattform-Version</string>
 
+    <!-- Nava maintainer -->
+    <string name="maintainer">Nava</string>
+
 </resources>
