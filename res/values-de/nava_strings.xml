@@ -5,9 +5,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Advanced keyboard settings -->
+    <string name="keyboard_extras_title">Extras</string>
+    <string name="advanced_keyboard_settings_title">Erweiterte Einstellungen</string>
+
     <!-- Nava version -->
-    <string name="nava_version">Nava-Version</string>
-    <string name="nava_version_default">UpDownCake</string>
+    <string name="nava_version">Nava version</string>
+    <string name="nava_version_default">Unknown</string>
 
     <!-- Platform version -->
     <string name="platform_version">Plattform-Version</string>
