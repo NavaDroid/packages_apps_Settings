@@ -108,6 +108,11 @@ android_library {
         "VendorSupport-preference",
         "vendor.lineage.fastcharge-V1.0-java",
         "vendor.lineage.trust-V1.0-java",
+        "glide",
+        "androidx.navigation_navigation-common-ktx",
+        "androidx.navigation_navigation-fragment-ktx",
+        "androidx.navigation_navigation-runtime-ktx",
+        "androidx.navigation_navigation-ui-ktx",
     ],
 
     plugins: ["androidx.room_room-compiler-plugin"],
@@ -170,4 +175,9 @@ filegroup {
 filegroup {
     name: "Settings_manifest",
     srcs: ["AndroidManifest.xml"],
+}
+
+android_library_import {
+    name: "glide",
+    aars: ["libs/glide-4.16.0.aar"],
 }
