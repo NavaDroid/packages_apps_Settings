@@ -9,4 +9,7 @@
     <string name="nava_version">Nava-Version</string>
     <string name="nava_version_default">UpDownCake</string>
 
+    <!-- Platform version -->
+    <string name="platform_version">Plattform-Version</string>
+
 </resources>
