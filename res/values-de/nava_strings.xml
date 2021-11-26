@@ -15,6 +15,10 @@
     <!-- Nava maintainer -->
     <string name="maintainer">Nava</string>
 
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Inaktivitätsdisplay beim Laden</string>
+    <string name="doze_on_charge_summary">Zeit und Informationen werden ausschließlich beim Laden angezeigt</string>
+
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Wischen für Bildschirmfoto</string>
     <string name="three_finger_gesture_summary">Mit drei Fingern wischen, um ein Bildschirmfoto aufzunehmen</string>
