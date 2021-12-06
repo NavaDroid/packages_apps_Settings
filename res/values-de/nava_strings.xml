@@ -741,4 +741,12 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatisch zwischen 5G und 4G wechseln, um den Batterieverbrauch zu reduzieren</string>
+
+    <!-- Incall options -->
+    <string name="incall_category">Anrufoptionen</string>
+    <string name="flashlight_on_call_title">Blinkende Taschenlampe für eingehende Anrufe</string>
+    <string name="flashlight_on_call_disabled">Deaktiviert</string>
+    <string name="flashlight_on_call_ringer">Beim Klingeln</string>
+    <string name="flashlight_on_call_silent">Bei völliger Stille (kein Klingelton oder Vibration)</string>
+    <string name="flashlight_on_call_always">Immer</string>
 </resources>
